@@ -1,0 +1,13 @@
+{
+    "name": "chengfengchi/db",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "chengfengchi",
+            "email": "1026091321@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
