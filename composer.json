@@ -8,6 +8,11 @@
             "email": "1026091321@qq.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "think\\": "src/"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
